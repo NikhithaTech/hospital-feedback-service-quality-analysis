@@ -4,6 +4,11 @@
 Patient satisfaction and service quality are key indicators of hospital performance.
 This project analyzes patient feedback and service quality metrics using Microsoft Power BI to provide actionable insights for hospital administrators and quality assurance teams.
 
+## 📊 Dashboard Preview
+
+![Executive Overview](screenshots/executive-overview.png)
+
+
 ## Business Problem
 Traditional hospital feedback systems are often manual and fragmented, making it difficult to identify service quality issues in a timely manner.
 This project provides a centralized and interactive dashboard to monitor patient satisfaction and service quality effectively.
